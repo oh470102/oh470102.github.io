@@ -19,11 +19,11 @@ future                   : true
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My blog"
+title                    : "나의 수강기록"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Donggyu (David) Lee"
-description              : "My personal website...."
+name                     : "반짝이는 앞접시"
+description              : ""
 url                      : "https://oh470102.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,11 +115,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "반짝이는 앞접시"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am...."
-  location         : "Seoul, KR"
-  email            :
+  bio              : "익명의 서울대학교 전기정보공학부 학부생입니다. 본 블로그는 기록용입니다."
+  location         : "SNU, Seoul"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
