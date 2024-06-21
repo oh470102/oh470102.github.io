@@ -19,7 +19,7 @@ future                   : true
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "My blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Donggyu (David) Lee"
