@@ -117,7 +117,7 @@ analytics:
 author:
   name             : "반짝이는 앞접시"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "익명의 서울대학교 전기정보공학부 학부생입니다. 본 블로그는 기록용입니다."
+  bio              : "익명의 서울대 전기정보공학부 학부생의 기록용 블로그입니다."
   location         : "SNU, Seoul"
   email            : 
   links:
