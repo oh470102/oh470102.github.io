@@ -12,7 +12,7 @@ title:  "2학년 1학기 (2024-1)"
 
 **강의 내용**
 
-> <strong>Advanced Engineering Mathematics | Erwin Kreyszig</strong>
+> Advanced Engineering Mathematics | Erwin Kreyszig
 
 악명이 자자하며 저 역시 슬프게도 썰린 강의입니다. 회로를 분석하는 여러 방법들에 대해 배우며, 엄밀함보다는 문제풀이와 계산에 치중되어 있습니다. 중간고사 이전으로는 직류 회로에 대해 공부하며, KCL, KVL, 테브난 및 노턴 등가회로, operational amplifier 등에 대해 배웁니다. 개념 자체는 매우 쉬운 편이고 외울 것도 거의 없지만, 계산이 많이 악랄합니다. 기말고사 범위에서는 교류 회로로 초점이 옮겨가며, 미분방정식을 이용한 1, 2차 회로의 응답, 페이저 및 복소전력, network function과 bode plot에 대해 배웁니다. 개념들이 어려워지지만 여전히 할만한 수준입니다. 다만 계산은 여전히 더럽습니다. 실습 시간에는 배운 내용들을 활용하여 빵판을 가지고 많이 귀찮은 실습(실험)을 합니다. 
 
@@ -32,8 +32,7 @@ title:  "2학년 1학기 (2024-1)"
 
 **강의 내용**
 
-> **Absolute C++(Global Edition) | Walter Savitch**
-> 
+> Absolute C++(Global Edition) | Walter Savitch
 
 C++을 배우며 OOP의 주요 개념들을 학습합니다. 기초적인 문법부터 pointer, inheritance, virtual functions, namespace, template 등까지 배우는데, 갈수록 내용이 어렵고 헷갈리게 느껴질 순 있지만 할만합니다. 교수님이 교재를 요약한 자체 노트를 활용하시며, 실습 (lab 1) 시간에 배운 내용을 복습하기 때문에 내용 복기에 큰 시간을 들이지 않아도 됩니다. 추가로 실습 (lab 2) 시간에는 linux, STL, git 등도 배우는데, 컴텍을 타실 예정이라면 들어두면 큰 도움이 될 것 같습니다. 프로젝트도 총 2회 진행하는데, 수업 시간에 배운 개념들을 써먹어볼 수 있습니다. 
 
@@ -53,8 +52,7 @@ C++을 배우며 OOP의 주요 개념들을 학습합니다. 기초적인 문법
 
 **강의 내용**
 
-> **Probability and Stochastic Processes: A Friendly Introduction for Electrical and Computer Engineers | Roy D. Yates**
-> 
+> Probability and Stochastic Processes: A Friendly Introduction for Electrical and Computer Engineers | Roy D. Yates
 
 첫 14주 동안 random variable을 배우고, 마지막 한 주 동안 stochastic process에 대해 배웁니다. 교재 제목에서 알 수 있듯 공학, 특히 통신 분야에서의 확률의 쓰임새에 초점이 맞추어져 있습니다. 고등학교 시절 배웠던 기초적인 내용부터 시작하여, 확률 분포, MGF, 가설검정, 추정 등에 대해 간단히 배웁니다. 과목 자체가 엄밀함과는 거리가 멀고 문제풀이에 초점이 맞추어져 있습니다.
 
@@ -74,8 +72,8 @@ C++을 배우며 OOP의 주요 개념들을 학습합니다. 기초적인 문법
 
 **강의 내용**
 
-> **Advanced Engineering Mathematics | Erwin Kreyszig**
-> 
+> Advanced Engineering Mathematics | Erwin Kreyszig
+
 
 교수님께서 단원별로 자체 강의 노트를 제공해 주십니다. 중간중간 오탈자가 많지만, 나름 많은 통찰을 얻어갈 수 있습니다. 중간고사 범위는 vector calculus와 Fourier analysis입니다. Vector calculus에서는 기둥 및 구면좌표계와 더 친해지는 연습을 하며, Fourier analysis에서는 Fourier series, transform, convolution 등을 배웁니다. 식이 복잡하고 외울게 많지만 개념은 어렵지 않습니다. 기말고사 범위는 PDE와 complex analysis였습니다. PDE 단원에서는 wave, heat equation을 푸는 법을 배우는데, 공학수학 1 때 배운 ODE에 관한 기본적인 내용을 알면 편합니다. 몰라도 큰 문제는 없지만 암기 소요 시간이 크게 늘어날 것 같네요. Complex analysis 에서는 복소함수의 미분과 적분을 배웁니다. 유수적분이라는 방법을 이용해서 복잡한 실함수의 정적분을 계산해보기도 하는데, 이 부분은 꽤 재미있었습니다.
 
@@ -95,14 +93,14 @@ C++을 배우며 OOP의 주요 개념들을 학습합니다. 기초적인 문법
 
 **강의 내용**
 
-> **선형대수와 군 | 이인석**
-> 
+> 선형대수와 군 | 이인석
+
 
 이인석 선형대수와 군을 교재로 사용하며 1-8장을 나갑니다. 시험을 총 세 번 보는데, 1차 중간고사가 1-3장 (행렬, 벡터공간, 기저), 2차 중간고사가 4-6장 (선형사상, 기본정리, 행렬식), 기말고사가 7-8장(대각화와 분해정리)을 나갑니다. 공대생인 저의 첫 수리과학부 개설 과목이였는데, 특유의 추상적인 내용과 증명 기반 내용 전개가 어렵게 다가왔습니다. 교재를 보시면 알겠지만 예제가 거의 없다시피 하고, 설명도 많이 생략되어 있어서 혼자 머리를 싸매며 생각해보는 시간이 많이 필요했습니다. 특히 8장은 저에게 여러 차례 멘붕을 주었던 것 같아요.
 
 **좋았던 점**
 
-교수님이 설명을 막힘없이 하시며, 처음에는 조금 엄격하시다고 생각했는데 갈수록 귀여워 보이십니다. 적응 과정이 힘들었지만 추상 수학의 매력을 알게 해준 과목 같습니다. 특히 교재에서 1장부터 쌓아 올린 빌드업이 8.7장에서 Jordan canonical form을 소개하며 $A \sim A^t$임을 보였을 때는… 
+교수님이 설명을 막힘없이 하시며, 처음에는 조금 엄격하시다고 생각했는데 갈수록 귀여워 보이십니다. 적응 과정이 힘들었지만 추상 수학의 매력을 알게 해준 과목 같습니다. 특히 교재에서 1장부터 쌓아 올린 빌드업이 8.7장에서 Jordan canonical form을 소개하며 \\( A \sim A^t \\) 임을 보였을 때는… 
 
 **아쉬웠던 점**
 
