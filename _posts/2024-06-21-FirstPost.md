@@ -12,8 +12,7 @@ title:  "2학년 1학기 (2024-1)"
 
 **강의 내용**
 
-> **Introduction to Electric Circuits | James A. Svoboda , Richard C. Dorf**
-> 
+> <strong>Advanced Engineering Mathematics | Erwin Kreyszig</strong>
 
 악명이 자자하며 저 역시 슬프게도 썰린 강의입니다. 회로를 분석하는 여러 방법들에 대해 배우며, 엄밀함보다는 문제풀이와 계산에 치중되어 있습니다. 중간고사 이전으로는 직류 회로에 대해 공부하며, KCL, KVL, 테브난 및 노턴 등가회로, operational amplifier 등에 대해 배웁니다. 개념 자체는 매우 쉬운 편이고 외울 것도 거의 없지만, 계산이 많이 악랄합니다. 기말고사 범위에서는 교류 회로로 초점이 옮겨가며, 미분방정식을 이용한 1, 2차 회로의 응답, 페이저 및 복소전력, network function과 bode plot에 대해 배웁니다. 개념들이 어려워지지만 여전히 할만한 수준입니다. 다만 계산은 여전히 더럽습니다. 실습 시간에는 배운 내용들을 활용하여 빵판을 가지고 많이 귀찮은 실습(실험)을 합니다. 
 
