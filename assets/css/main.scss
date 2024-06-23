@@ -7,3 +7,11 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+body {
+  font-size: 16px; /* Adjust the base font size as needed */
+}
+
+.smaller-text {
+  font-size: 12px; /* Custom class for smaller text */
+}
