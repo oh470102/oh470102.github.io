@@ -19,7 +19,7 @@ future                   : true
 
 # Site Settings
 locale                   : "en-US"
-title                    : "나의 수강기록"
+title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "반짝이는 앞접시"
@@ -117,8 +117,8 @@ analytics:
 author:
   name             : "반짝이는 앞접시"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "익명의 서울대 전기정보공학부 학부생의 기록용 블로그입니다."
-  location         : "SNU, Seoul"
+  bio              : "익명 공대생의 기록용 블로그입니다. 도움이 되셨으면 좋겠습니다."
+  location         : "SNU, South Korea"
   email            : 
   links:
     - label: "Email"
