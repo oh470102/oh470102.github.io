@@ -9,6 +9,10 @@
   <script type="text/javascript" async
     src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
   </script>
+</head>
+
+<head>
+  <!-- other head elements -->
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap" rel="stylesheet">
 </head>
 
@@ -22,21 +26,9 @@
     {% include_cached skip-links.html %}
     {% include_cached masthead.html %}
 
-    <div class="container">
-      <aside class="sidebar">
-        <nav>
-          <h2>Categories</h2>
-          <ul>
-            {% for category in site.categories %}
-              <li><a href="{{ site.baseurl }}/categories/{{ category[0] | slugify }}">{{ category[0] }}</a></li>
-            {% endfor %}
-          </ul>
-        </nav>
-      </aside>
-      <div class="initial-content">
-        {{ content }}
-        {% include after-content.html %}
-      </div>
+    <div class="initial-content">
+      {{ content }}
+      {% include after-content.html %}
     </div>
 
     {% if site.search == true %}
